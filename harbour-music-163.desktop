@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-music-163
+Exec=harbour-music-163
+Name=Music 163
+# translation example:
+# your app name in German locale (de)
+#
+# Remember to comment out the following line, if you do not want to use
+# a different app name in German locale (de).
+Name[de]=Music 163
+Name[zh_CN]=网易云音乐
+Name[zh_HK]=網易雲音樂
